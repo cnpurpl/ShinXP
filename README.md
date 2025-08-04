@@ -1,4 +1,4 @@
-# ShinXP
+# ShinXP (Shinxiyu XP)
 
 🏁 Shizukulchi's WinXP Web Repository Fork With Some Extra Things.
 
