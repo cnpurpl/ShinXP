@@ -1,8 +1,8 @@
 {
-  "name": "winXP",
+  "name": "ShinxiyuXP",
   "version": "0.1.0",
   "private": true,
-  "author": "ShizukuIchi <shizukuichi@gmail.com>",
+  "author": "cnpurpl (Original Author: ShizukuIchi <shizukuichi@gmail.com>)",
   "homepage": "https://winxp.now.sh",
   "dependencies": {
     "lodash.samplesize": "^4.2.0",
